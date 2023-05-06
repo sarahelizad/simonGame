@@ -14,7 +14,7 @@ This project is a twist on the short term memorization game, Simon. I built this
 
 ### What I learned
 
-This project expanded my knowledge of JavaScript logic and control flow. I experimented with animation and sound to create to enhance player experience. I also utilized jQuery to simplify the code and implement event handlers more efficiently.
+This project expanded my knowledge of JavaScript logic and control flow. I experimented with animation and sound to enhance player experience. I also utilized jQuery to simplify the code and implement event handlers more efficiently.
 
 ## Author
 
